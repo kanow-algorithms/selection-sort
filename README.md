@@ -5,7 +5,7 @@ After you clone this repo you need to move inside ```selection-sort``` directory
 
 ``` npm install```
 
-> To run ```npm install``` you musst have installed **node.js**
+> To run ```npm install``` you must have installed **node.js**
 
 ## Description
 
